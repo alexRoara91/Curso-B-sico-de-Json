@@ -1,0 +1,7 @@
+{
+    "nombre" : "Alexander",
+    "Usuario" : "lex",
+    "cursos" : 5,
+    "activos" : true,
+    "terminados" : null
+}

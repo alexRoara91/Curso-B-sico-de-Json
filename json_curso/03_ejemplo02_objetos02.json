@@ -1,0 +1,11 @@
+
+{
+    "alumno":{
+        "nombre" : "Alexandar", 
+        "edad" : 44, 
+        "cursos" : [
+            {"nombre" : "JSON"},
+            {"nombre" : "ANGULAR"}
+        ] 
+    }
+}

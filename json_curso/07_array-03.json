@@ -1,0 +1,8 @@
+{
+    "categoriaCurso" : "Liferay",
+    "cursos" : [
+        {"nombre" : "comenzando","niveles" : ["básico","intermedio","avanzado"]},
+        {"nombre" : "comenzando","niveles" : ["básico","intermedio"]},
+        {"nombre" : "comenzando","niveles" : ["básico"]}
+    ]
+}

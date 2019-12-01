@@ -1,0 +1,11 @@
+{
+    "valores" : [
+        {"valor" : 5},
+        {"valor" : 6},
+        {"valor" : 7}
+    ],
+    "objeto" : {
+        "clave" : "valor",
+        "otraClave" : "valor"
+    }
+}

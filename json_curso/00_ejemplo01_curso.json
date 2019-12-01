@@ -1,0 +1,15 @@
+{
+	"curso": [{
+			"id": "01",
+			"materia": "json",
+			"nivel": "basico",
+			"author": "Alexander"
+		},
+		{
+			"id": "02",
+			"materia": "ajax",
+			"nivel": "intermedio",
+			"author": "Juan"
+		}
+	]
+}
